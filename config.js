@@ -30,7 +30,7 @@ var config = {
             description: '',
             location: {
                 center: [28.949,41.056],
-                zoom: 15,
+                zoom: 16,
                 pitch: 0,
                 bearing: 0
             },
@@ -60,7 +60,7 @@ var config = {
             description: '',
             location: {
                 center: [28.946,41.056],
-                zoom: 16,
+                zoom: 17,
                 pitch: 0,
                 bearing: 0,
                 // flyTo additional controls-
